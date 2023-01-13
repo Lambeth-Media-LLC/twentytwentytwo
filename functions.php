@@ -9,6 +9,7 @@
  * @since Twenty Twenty-Two 1.0
  */
 
+include 'custom-functions.php'; //Append custom functions for GTM scripts, Optimize initialization, Google Analytics, etc.
 
 if ( ! function_exists( 'twentytwentytwo_support' ) ) :
 
